@@ -1,7 +1,7 @@
 name: pezgurly
 favicon: null
-layout_spectrum: 0.722340912790969
-typography_spectrum: 0.40771508566103876
+layout_spectrum: 0.25188
+typography_spectrum: 0.3007
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.3747450348455459
-  lightness: 0.7486775943543762
-  saturation: 0.596805693116039
-  rhythmicContrast: 0.567270565778017
+    - '#100503'
+    - '#f2f5fa'
+    - '#d48c74'
+    - '#293728'
+    - '#8ba13d'
+  brandStrength: 0.875
+  lightness: 0.75
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
